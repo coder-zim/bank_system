@@ -53,7 +53,7 @@ Enter numerical inputs as prompted (e.g., amounts, interest rates).
 Transactions are displayed on the console.
 On exit (option 6), a BankStatement.txt file is generated with a summary, including total deposited, total withdrawn, and balance in a boxed format.
 
-
+_
 Example BankStatement.txt:
       Zim`s Mini Bank      
    Transaction History     
@@ -66,7 +66,7 @@ Interest:    $        2.50
 | Total Deposited: $500.00     |
 | Total Withdrawn: $200.00     |
 | Balance: $302.50             |
-+------------------------------+
++------------------------------+_
 
 
 # **File Structure**
