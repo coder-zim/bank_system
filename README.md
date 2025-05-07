@@ -6,12 +6,13 @@ withdrawals, balance checks, transaction history, interest calculations, and sav
 
 # Features
 
-     1-Deposit Money: Add funds to your account
-     2-Withdraw Money: Remove funds if sufficient balance exists
-     3-Check Balance: View the current account balance
-     4-View Transaction History: Display all transactions (deposits, withdrawals, interest)
-     5-Apply Interest: Calculate and add monthly interest based on a user-provided rate
-     6-Save and Exit: Save transaction summary to BankStatement.txt and exit the program
+     Data Structures: Lists (txn_list), tuples (transaction records).
+     String Methods: f-strings, strip(), alignment specifiers (:<n, :>n, :^n).
+     File Handling: open(), write() with context manager.
+     Control Flow: while, for, if/else, match.
+     Functions: Modular functions with return values, built-in functions (sum, len, etc.).
+     Exception Handling: try/except for input validation.
+     Formatting: ASCII box drawing, table formatting.
 
 
 # **Installation**
@@ -37,15 +38,14 @@ The program uses only Python's standard library.
 Run the Program:python3 bank_program.py
 
 # Interact with the Menu:
-     Choose options 1–6:
-     -Deposit Money
-     -Withdraw Money
-     -Check Balance
-     -View Transaction History
-     -Apply Interest Calculation
-     -Save Transaction History and Exit**
+     1-Deposit Money: Add funds to your account
+     2-Withdraw Money: Remove funds if sufficient balance exists
+     3-Check Balance: View the current account balance
+     4-View Transaction History: Display all transactions (deposits, withdrawals, interest)
+     5-Apply Interest: Calculate and add monthly interest based on a user-provided rate
+     6-Save and Exit: Save transaction summary to BankStatement.txt and exit the program
 
-Enter numerical inputs as prompted (e.g., amounts, interest rates).
+     [Enter numerical inputs as prompted (e.g., amounts, interest rates)]
 
 
 # **Output:**
