@@ -32,14 +32,14 @@ The program uses only Python's standard library.
 
 Run the Program:python3 bank_program.py
 
-     Interact with the Menu:
-     Choose options 1–6:
-     Deposit Money
-     Withdraw Money
-     Check Balance
-     View Transaction History
-     Apply Interest Calculation
-     Save Transaction History and Exit
+**     -Interact with the Menu:
+     -Choose options 1–6:
+     -Deposit Money
+     -Withdraw Money
+     -Check Balance
+     -View Transaction History
+     -Apply Interest Calculation
+     -Save Transaction History and Exit**
 
 Enter numerical inputs as prompted (e.g., amounts, interest rates).
 
