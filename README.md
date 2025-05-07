@@ -2,14 +2,14 @@
 A simple command-line banking system implemented in Python, allowing users to manage deposits, withdrawals, balance checks, transaction history, interest calculations, and save transaction summaries to a file.
 Features
 
-Deposit Money: Add funds to your account.
-Withdraw Money: Remove funds if sufficient balance exists.
-Check Balance: View the current account balance.
-View Transaction History: Display all transactions (deposits, withdrawals, interest).
-Apply Interest: Calculate and add monthly interest based on a user-provided rate.
-Save and Exit: Save transaction summary to BankStatement.txt and exit the program.
+-Deposit Money: Add funds to your account.
+-Withdraw Money: Remove funds if sufficient balance exists.
+-Check Balance: View the current account balance.
+-View Transaction History: Display all transactions (deposits, withdrawals, interest).
+-Apply Interest: Calculate and add monthly interest based on a user-provided rate.
+-Save and Exit: Save transaction summary to BankStatement.txt and exit the program.
 
--Installation
+**Installation**
 
 Clone the Repository:
 git clone https://github.com/your-username/zims-mini-bank.git
@@ -30,7 +30,7 @@ No External Dependencies:
 The program uses only Python's standard library.
 
 
--Usage
+**Usage**
 
 Run the Program:python3 bank_program.py
 
@@ -48,7 +48,7 @@ Save Transaction History and Exit
 Enter numerical inputs as prompted (e.g., amounts, interest rates).
 
 
--Output:
+**Output:**
 Transactions are displayed on the console.
 On exit (option 6), a BankStatement.txt file is generated with a summary, including total deposited, total withdrawn, and balance in a boxed format.
 
@@ -68,16 +68,16 @@ Interest:    $        2.50
 | Balance: $302.50             |
 +------------------------------+
 
--File Structure
+**File Structure**
 zims-mini-bank/
 ├── bank_program.py       # Main Python script for the banking system
 ├── BankStatement.txt     # Generated file with transaction summary (created on exit)
 └── README.md             # This file
 
--Contributing
+**Contributing**
 Support your local build0rs.
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch (git checkout -b feature/your-feature).
 Make changes and commit (git commit -m "Add your feature").
 Push to your branch (git push origin feature/your-feature).
