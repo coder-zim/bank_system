@@ -2,12 +2,18 @@
 A simple command-line banking system implemented in Python, allowing users to manage deposits, withdrawals, balance checks, transaction history, interest calculations, and save transaction summaries to a file.
 Features
 
--Deposit Money: Add funds to your account.
--Withdraw Money: Remove funds if sufficient balance exists.
--Check Balance: View the current account balance.
--View Transaction History: Display all transactions (deposits, withdrawals, interest).
--Apply Interest: Calculate and add monthly interest based on a user-provided rate.
--Save and Exit: Save transaction summary to BankStatement.txt and exit the program.
+-Deposit Money: Add funds to your account
+
+-Withdraw Money: Remove funds if sufficient balance exists
+
+-Check Balance: View the current account balance
+
+-View Transaction History: Display all transactions (deposits, withdrawals, interest)
+
+-Apply Interest: Calculate and add monthly interest based on a user-provided rate
+
+-Save and Exit: Save transaction summary to BankStatement.txt and exit the program
+
 
 **Installation**
 
