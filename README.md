@@ -53,28 +53,28 @@ Enter numerical inputs as prompted (e.g., amounts, interest rates).
 Transactions are displayed on the console.
 On exit (option 6), a BankStatement.txt file is generated with a summary, including total deposited, total withdrawn, and balance in a boxed format.
 
-_
-Example BankStatement.txt:
-      Zim`s Mini Bank      
-   Transaction History     
 
-Deposited:   $      500.00
-Withdrew:    $      200.00
-Interest:    $        2.50
-
-+------------------------------+
-| Total Deposited: $500.00     |
-| Total Withdrawn: $200.00     |
-| Balance: $302.50             |
-+------------------------------+_
-
+      **Example BankStatement.txt:
+            Zim`s Mini Bank      
+         Transaction History     
+      
+      Deposited:   $      500.00
+      Withdrew:    $      200.00
+      Interest:    $        2.50
+      
+      +------------------------------+
+      | Total Deposited: $500.00     |
+      | Total Withdrawn: $200.00     |
+      | Balance: $302.50             |
+      +------------------------------+
+      **
 
 # **File Structure**
-zims-mini-bank/
-├── bank_program.py       # Main Python script for the banking system
-├── BankStatement.txt     # Generated file with transaction summary (created on exit)
-└── README.md             # This file
-
+      zims-mini-bank/
+      ├── bank_program.py       # Main Python script for the banking system
+      ├── BankStatement.txt     # Generated file with transaction summary (created on exit)
+      └── README.md             # This file
+      
 
 # **Contributing**
 Support your local build0rs.
