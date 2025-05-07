@@ -32,8 +32,8 @@ The program uses only Python's standard library.
 
 Run the Program:python3 bank_program.py
 
-**     -Interact with the Menu:
-     -Choose options 1–6:
+# Interact with the Menu:
+     Choose options 1–6:
      -Deposit Money
      -Withdraw Money
      -Check Balance
