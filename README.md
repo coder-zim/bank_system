@@ -1,6 +1,10 @@
 **Zim's Mini-Bank**
-A simple command-line banking system implemented in Python, allowing users to manage deposits, withdrawals, balance checks, transaction history, interest calculations, and save transaction summaries to a file.
-Features
+
+# Description
+A simple command-line banking system implemented in Python, allowing users to manage deposits, 
+withdrawals, balance checks, transaction history, interest calculations, and save transaction summaries to a file.
+
+# Features
 
      1-Deposit Money: Add funds to your account
      2-Withdraw Money: Remove funds if sufficient balance exists
